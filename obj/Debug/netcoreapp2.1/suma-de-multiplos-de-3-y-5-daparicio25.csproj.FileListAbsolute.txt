@@ -1,0 +1,11 @@
+D:\Cursos\Web_Services\suma-de-multiplos-de-3-y-5-daparicio25\bin\Debug\netcoreapp2.1\suma-de-multiplos-de-3-y-5-daparicio25.deps.json
+D:\Cursos\Web_Services\suma-de-multiplos-de-3-y-5-daparicio25\bin\Debug\netcoreapp2.1\suma-de-multiplos-de-3-y-5-daparicio25.runtimeconfig.json
+D:\Cursos\Web_Services\suma-de-multiplos-de-3-y-5-daparicio25\bin\Debug\netcoreapp2.1\suma-de-multiplos-de-3-y-5-daparicio25.runtimeconfig.dev.json
+D:\Cursos\Web_Services\suma-de-multiplos-de-3-y-5-daparicio25\bin\Debug\netcoreapp2.1\suma-de-multiplos-de-3-y-5-daparicio25.dll
+D:\Cursos\Web_Services\suma-de-multiplos-de-3-y-5-daparicio25\bin\Debug\netcoreapp2.1\suma-de-multiplos-de-3-y-5-daparicio25.pdb
+D:\Cursos\Web_Services\suma-de-multiplos-de-3-y-5-daparicio25\obj\Debug\netcoreapp2.1\suma-de-multiplos-de-3-y-5-daparicio25.csprojAssemblyReference.cache
+D:\Cursos\Web_Services\suma-de-multiplos-de-3-y-5-daparicio25\obj\Debug\netcoreapp2.1\suma-de-multiplos-de-3-y-5-daparicio25.csproj.CoreCompileInputs.cache
+D:\Cursos\Web_Services\suma-de-multiplos-de-3-y-5-daparicio25\obj\Debug\netcoreapp2.1\suma-de-multiplos-de-3-y-5-daparicio25.AssemblyInfoInputs.cache
+D:\Cursos\Web_Services\suma-de-multiplos-de-3-y-5-daparicio25\obj\Debug\netcoreapp2.1\suma-de-multiplos-de-3-y-5-daparicio25.AssemblyInfo.cs
+D:\Cursos\Web_Services\suma-de-multiplos-de-3-y-5-daparicio25\obj\Debug\netcoreapp2.1\suma-de-multiplos-de-3-y-5-daparicio25.dll
+D:\Cursos\Web_Services\suma-de-multiplos-de-3-y-5-daparicio25\obj\Debug\netcoreapp2.1\suma-de-multiplos-de-3-y-5-daparicio25.pdb
